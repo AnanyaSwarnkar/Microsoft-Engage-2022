@@ -9,7 +9,7 @@
        <body style ="background:url(https://images6.alphacoders.com/100/thumb-1920-1008399.jpg); background-size: 100% 100% ;">
     
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-<font	
+<font  color="#FFFFFF";>	
 <title>TRAIN SCHEDULE</title>
 
 	<link rel="stylesheet" type="text/css" href="style2.css">
