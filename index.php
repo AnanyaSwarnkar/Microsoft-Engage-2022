@@ -23,7 +23,7 @@ include("server2.php");
 	<style>
 	body{
                 
-               <body style ="background:url(https://images.thequint.com/thequint%2F2021-03%2F026d5432-64eb-442f-958e-0d34d03354bc%2Fgolden_2.jpg); background-size: 100% 100% ;">      
+               <body style ="background:url(https://www.theindia.co.in/blog/wp-content/uploads/2019/03/deccan-odyssey-train.jpg); background-size: 100% 100% ;">      
 		
 		background-repeat: no-repeat;
 
@@ -163,7 +163,7 @@ include("server2.php");
 			</nav>
 
 
-<img src="images/front.jpg" alt="" width="680" height="600" style="float:right">
+<img src="https://static.toiimg.com/photo/61202140.cms" alt="" width="680" height="600" style="float:right">
 
 
 			<form method="post" action="confirm.php">
