@@ -9,7 +9,7 @@
 
 
   <p align="center">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">·
+ <img src="https://i0.wp.com/theconstructor.org/wp-content/uploads/2021/05/shutterstock_710487946.jpg?fit=1000%2C668&ssl=1" alt="Logo" width="25" height="25">·
  <a target="_blank" href="#">Video Demo</a>
 </p>
     ·
